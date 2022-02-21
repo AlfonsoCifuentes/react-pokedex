@@ -1,0 +1,6 @@
+.menuItem{
+    font-family: "Press Start 2P", cursive;
+    text-shadow: -3px 0 rgb(255, 252, 67), 0 3px rgb(255, 252, 67),
+      3px 0 rgb(255, 252, 67), 0 -3px rgb(255, 252, 67);
+    letter-spacing: 5px;
+}
